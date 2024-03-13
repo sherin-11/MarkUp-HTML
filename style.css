@@ -1,0 +1,33 @@
+*{
+    margin: 1em;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.set_1{
+    text-align: right;
+    font-style: italic;
+}
+.set_1 h4{
+    margin-bottom: -1em;
+}
+.set_1 span{
+    font-weight: bold;
+    margin-right: 1em;
+}
+
+.set_3 h2{
+    margin-left: .5em;
+}
+.set_4 h2{
+    margin-left: .5em;
+}
+.set_4 ul{
+    margin-left: 2em;
+}
+.set_4 li{
+    margin-bottom: -.5em;
+}
+.set_4 .region-2{
+    margin-left: 3em;
+    margin-top: -.5em;
+}
